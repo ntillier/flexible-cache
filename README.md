@@ -14,6 +14,11 @@ The objective is to is to simplify the complexities of key management, enabling 
 
 - **Automatic Management**: The use of ``The library efficiently manages cache eviction based on usage patterns, ensuring that valuable memory resources are optimized.
 
+### Install
+```
+npm i flexible-cache
+```
+
 ### Usage:
 
 ```javascript

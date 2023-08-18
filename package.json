@@ -1,6 +1,6 @@
 {
   "name": "flexible-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable & flexible cache for your next app",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "lru-cache": "^10.0.1"
+  },
+  "keywords": [
+    "cache",
+    "lru"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntillier/https://github.com/ntillier/flexible-cache.git"
   }
 }
